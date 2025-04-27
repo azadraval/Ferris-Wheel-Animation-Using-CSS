@@ -27,7 +27,7 @@ Through this project, I practiced:
 
 ## Project Structure
 
-- `main.html` - The HTML structure with the Ferris wheel elements
+- `index.html` - The HTML structure with the Ferris wheel elements
 - `styles.css` - The CSS file that creates the animations and visual appearance
 
 ## Design Elements
